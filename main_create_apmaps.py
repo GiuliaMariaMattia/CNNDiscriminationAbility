@@ -4,6 +4,8 @@ Last updated version November 2023
 
 @author: Giulia Maria Mattia
 
+GNU Affero General Public License v3.0
+
 Script to create the altered parametric maps (APMaps) in the monoregion version.
 The biregion APMaps can be obtained by modyfing one region first and then use these monoregion APMaps as base to modify the second region,
 instead of using the original parametric maps

@@ -6,6 +6,8 @@ Last updated version November 2023
 
 @author: Giulia Maria Mattia
 
+GNU Affero General Public License v3.0
+
 Script to generate the 10-fold cross validation scheme and hold-out set
 """
 

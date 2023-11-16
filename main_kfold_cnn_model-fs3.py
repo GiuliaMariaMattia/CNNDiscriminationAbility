@@ -6,6 +6,8 @@ Last updated version November 2023
 
 @author: Giulia Maria Mattia
 
+GNU Affero General Public License v3.0
+
 Script to implement a 3D CNN trained with OPMaps and APMaps to determine CNN behavior according to the
 specific input features (e.g. intensity and size of the altered region in the APMaps)
 

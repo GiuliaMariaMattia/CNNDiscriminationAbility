@@ -7,7 +7,7 @@ Pending acceptance for publication, a preprint of the related research article c
 *****************
 Each script contains a brief description of the content. Variables and scripts are named in a self-explaining manner to facilitate use.
 
-To run the code the following data are needed:
+To run the code, the following data are needed:
 1) MRI images to modify (nifti format)
 2) Mask of the region to modify (nifti format)
 *****************

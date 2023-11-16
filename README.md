@@ -1,4 +1,4 @@
-# CNN_Discrimination_Ability
+# CNN Discrimination Ability
 
 This code allows for creating the Altered Parametric Maps (APMaps) and investigating CNN discrimination ability according to input features (e.g. intensity and size of the altered region in the APMaps).
 

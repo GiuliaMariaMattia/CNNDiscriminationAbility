@@ -1,8 +1,9 @@
 # CNN Discrimination Ability
 
 This code allows for creating the Altered Parametric Maps (APMaps) and investigating CNN discrimination ability according to input features (e.g. intensity and size of the altered region in the APMaps).
+The research article related to this code can be found at https://doi.org/10.1016/j.artmed.2024.102897
 
-Pending acceptance for publication, a preprint of the related research article can be found at https://doi.org/10.36227/techrxiv.15010803.v1
+You are kindly invited to contact the authors before proceeding to any commercial use.
 
 *****************
 Each script contains a brief description of the content. Variables and scripts are named in a self-explaining manner to facilitate use.
